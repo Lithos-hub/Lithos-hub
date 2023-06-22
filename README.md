@@ -11,10 +11,10 @@
   </h4>
   
   <div id="badges">  
-    <a href="https://www.linkedin.com/in/carlos-segura-garcia/">
+    <a href="https://www.linkedin.com/in/carlos-segura-garcia/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://carlosseguragarcia.com">
+    <a href="https://carlosseguragarcia.com" target="_blank">
       <img src="https://img.shields.io/badge/My_website-red?style=for-the-badge&logo=javascript&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
