@@ -27,7 +27,7 @@
     These are my stats :zap:
   </h4>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lithos-Hub&theme=great-gatsby&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lithos-Hub&theme=great-gatsby)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lithos-hub&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
