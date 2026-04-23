@@ -9,6 +9,8 @@
     Frontend Developer | Vue.js & Nuxt Enthusiast
   </h4>
 
+  <a href="https://certificates.dev/vuejs/certificates/a05409d1-b586-4afc-8531-3f0971669a62"><img src="https://img.shields.io/badge/Official_Vue.js_Certified-Mid--Level-10B981?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white&amp;labelColor=065F46" alt="Vue.js Mid-Level Certificate"></a>
+
     
   <div id="badges">  
     <a href="https://www.linkedin.com/in/carlos-segura-garcia/" target="_blank">
